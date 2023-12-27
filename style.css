@@ -3,7 +3,7 @@ body, html {
     padding: 0;
 }
 
-.nav {
+.bg {
     background-image: url("media/gifbg.gif");
     overflow: hidden;
     position: relative;
